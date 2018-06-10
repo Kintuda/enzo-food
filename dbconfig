@@ -1,0 +1,14 @@
+Host
+ec2-54-235-193-34.compute-1.amazonaws.com
+Database
+d9ma28rntd2dk7
+User
+wmljjwlhdrzkrr
+Port
+5432
+Password
+f8f793ff8c117733c1e5e53015212a56bb53d8d14420e25d9d2b891b4beb2b5d
+URI
+postgres://wmljjwlhdrzkrr:f8f793ff8c117733c1e5e53015212a56bb53d8d14420e25d9d2b891b4beb2b5d@ec2-54-235-193-34.compute-1.amazonaws.com:5432/d9ma28rntd2dk7
+Heroku CLI
+heroku pg:psql postgresql-shaped-73686 --app testedehtml789
