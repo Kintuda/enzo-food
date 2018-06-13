@@ -15,3 +15,10 @@ Host: mysql427.umbler.com
 Port: 41890
 User: enzofood
 Password: enzo123456
+/--------------------------------------------------------------------------------------------------------
+Banco de dados POSTGRES Funcionando no netbeans
+
+Server: tantor.db.elephantsql.com
+User e nome do  database:	paxemkjo
+Password: NfOG_7NA260qSCC4xpl1uAsZ9Z5iVBRb
+URL	postgres://paxemkjo:NfOG_7NA260qSCC4xpl1uAsZ9Z5iVBRb@tantor.db.elephantsql.com:5432/paxemkjo
